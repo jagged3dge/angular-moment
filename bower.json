@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "angular": ">=1.0.0 <1.4.0",
-    "moment": "https://github.com/jagged3dge/moment.git#master"
+    "moment": "git://github.com/jagged3dge/moment.git#master"
   },
   "devDependencies": {
     "angular-mocks": "1.2.x",
