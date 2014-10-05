@@ -7,7 +7,7 @@
     "url": "http://github.com/urish/angular-moment.git"
   },
   "dependencies": {
-    "moment": ">=2.0.0 <2.9.0"
+    "moment": "git://github.com/jagged3dge/moment.git#master"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
